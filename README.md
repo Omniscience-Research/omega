@@ -44,6 +44,7 @@ Omega's algorithms have demonstrated superior performance on a variety of benchm
 
 | Classifier | Wine | Breast Cancer | Digits | Diabetes | Covertype | Abalone |
 |------------|------|---------------|--------|----------|-----------|---------|
+| KNeighborsClassifier | 0.750 | 0.667 | 0.667 | 0.667 | 0.667 | 0.611 |
 | HybridKNNClassifier | 0.972 | 0.861 | 0.944 | 1.000 | 0.972 | 0.972 |
 | MultiLevelAbstractionKNN | 0.972 | 0.944 | 0.972 | 0.972 | 0.944 | 0.944 |
 
